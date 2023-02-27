@@ -2,3 +2,92 @@
 Mastering the Art of Pythonic Combat: A Handbook on Kobra Kai Principles and Techniques for Professional Programming
 
 I am pleased to present a handbook chronicling my personal journey of mastering Python. Through the use of analogies, I was able to comprehend and apply key programming concepts, and it is my hope that this handbook will enable others to achieve similar success.
+
+The handbook features a comprehensive array of content, including detailed Q&A, diverse projects, and thorough explanations of key programming elements, among other valuable resources.
+
+The following serves as an illustrative example, but readers can expect to gain many more valuable insights:
+
+- variables 
+- multiple assignment
+- string methods
+- type cast
+- user input 
+- math functions 
+- string slicing 
+- if statements 
+- logical operators
+- while loops 
+- for loops 
+- nested loops 
+- break continue pass 
+- lists 
+- 2D lists 
+- tuples 
+- sets 
+- dictionaries 
+- indexing 
+- functions 
+- return statement 
+- keyword arguments 
+- nested function calls 
+- variable scope 
+- *args 
+- **kwargs 
+- string format 
+- random numbers 
+- exception handling 
+- file detection 
+- read a file 
+- write a file 
+- copy a file 
+- move a file 
+- delete a file 
+- modules 
+- Object Oriented Programming (OOP) 
+- class variables 
+- inheritance 
+- multilevel inheritance 
+- multiple inheritance 
+- method overriding 
+- method chaining 
+- super function 
+- abstract classes 
+- objects as arguments 
+- duck typing 
+- walrus operator 
+- functions to variables 
+- higher order functions 
+- lambda 
+- sort 
+- map 
+- filter 
+- reduce 
+- list comprehensions
+- dictionary comprehensions 
+- zip function 
+- time module 
+- threading 
+- daemon threads 
+- multiprocessing 
+- GUI windows 
+- labels 
+- buttons 
+- entrybox 
+- checkbox 
+- radio buttons 
+- scale 
+- listbox 
+- messagebox 
+- colorchooser 
+- text area 
+- open a file (file dialog) 
+- save a file (file dialog) 
+- menubar 
+- frames 
+- new windows 
+- window tabs 
+- grid 
+- keyboard events 
+- mouse events 
+- run with command prompt 
+- pip 
